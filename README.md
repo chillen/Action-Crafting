@@ -7,7 +7,7 @@ deciding to prototype a system that lets users pre-craft their actions for use i
 some other games, but we were specifically interested in allowing the player to craft branchable moves so that they could
 adjust their tactics mid-attack.
 
-![Custom Actions Example](https://raw.githubusercontent.com/chillen/Action-Crafting/master/CustomActions.gif)
+![Custom Actions Example](https://raw.githubusercontent.com/chillen/Action-Crafting/master/CustomActionsSmall.gif)
 
 While we didn't get a chance to implement this in a game with goals, we see the player being able to either swipe or 
 press 1-4 buttons to choose their move. For example, they may prepare for a hard swing, but they could branch, and if they
